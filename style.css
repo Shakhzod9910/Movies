@@ -30,7 +30,7 @@
 
 .home {
   background-color: #0B2034;
-  background-image:url(/1458416.svg);
+  background-image:url(./1458416.svg);
   background-size: cover;
   background-position: bottom;
   transition: transform 1s ease;
